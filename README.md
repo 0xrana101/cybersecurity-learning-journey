@@ -36,7 +36,7 @@ Learn → Practice → Document → Build → Review
 
 ...
 
-## Certifications
+## Future Preparation
 
 * CPTS — Certified Penetration Testing Specialist
 * PT1 — Practical Junior Penetration Tester
